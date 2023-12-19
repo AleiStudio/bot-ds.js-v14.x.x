@@ -1,5 +1,6 @@
 {
 
-    "token": "token"
+    "token": "token",
+    "clientId": "idbot"
 
 }
