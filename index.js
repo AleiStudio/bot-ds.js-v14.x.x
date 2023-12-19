@@ -1,4 +1,4 @@
-const { Client, Partials } = require('discord.js');
+const { Client, Partials, ActivityType } = require('discord.js');
 const { User, Message, GuildMember, ThreadMember } = Partials;
 
 const client = new Client({
@@ -21,3 +21,9 @@ client.on('messageCreate', async message => {
 })
 
 client.login(client.config.token);
+
+client.on('ready', () => {
+
+  client.user.setActivity("estamos activos", {type: ActivityType.Watching})
+
+});
