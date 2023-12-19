@@ -11,3 +11,12 @@ Este repositorio está diseñado para ayudarte a comenzar a desarrollar bots de 
 Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
 
 - Node.js: Asegúrate de tener Node.js instalado en tu sistema. Puedes descargarlo desde [el sitio web oficial](https://nodejs.org/).
+
+# Actualizaciones
+* Metimos para leer los slashcommands, también metimos 3 comandos que son
+1. ping
+2. embed
+3. kick
+
+# Nota
+errores se manejan dentro del código de index
