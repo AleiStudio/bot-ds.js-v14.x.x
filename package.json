@@ -1,0 +1,15 @@
+{
+  "name": "bot-base-ds.js-v14.x.x",
+  "version": "1.0.0",
+  "description": "Este es un repositorio básico para trabajar con Discord.js v14, que será actualizado cada vez que tenga tiempo para mantenerlo al día con las últimas actualizaciones de Discord.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
