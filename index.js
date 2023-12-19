@@ -84,3 +84,10 @@ client.on('messageCreate', async message => {
 });
 
 client.login(client.config.token);
+
+/*
+############################################################################
+#                           bot-ds.js-v14.x.x                               #
+#               https://github.com/AleiStudio/bot-ds.js-v14.x.x             #
+############################################################################
+*/
