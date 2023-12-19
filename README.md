@@ -17,6 +17,7 @@ Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
 1. ping
 2. embed
 3. kick
+4. wantnsfw
 
 # Nota
 errores se manejan dentro del código de index
