@@ -20,3 +20,8 @@ Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
 
 # Nota
 errores se manejan dentro del código de index
+
+# Sociales
+[Discord](https://discord.gg/MpJvjvKxgT)
+[Twitter](https://twitter.com/AleiSistemas)
+[Pagina](https://aleistudio.xyz/)
